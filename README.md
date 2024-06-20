@@ -12,7 +12,7 @@ A função `extractDateRange` recebe uma frase como entrada e tenta identificar 
 console.log(extractDateRange("Relatório de vendas dos últimos 3 dias")); // { startDate: 2024-06-07, endDate: 2024-06-10 }
 console.log(extractDateRange("Relatório de vendas de ontem")); // { startDate: 2024-06-09, endDate: 2024-06-09 }
 console.log(extractDateRange("Relatório de vendas de hoje")); // { startDate: 2024-06-10, endDate: 2024-06-10 }
-
+```
 
 ## Função checkDateRangeExtraction
 
@@ -38,7 +38,7 @@ console.log(checkDateRangeExtraction("Relatório de vendas de 01/01 até 01/03")
 
 console.log(checkDateRangeExtraction("Relatório de vendas de 1/1 até 1/3"));
 // Retorna: "Intervalo de datas identificado: 01/01/2024 até 01/03/2024"
-
+```
 
 # Como Contribuir
 
