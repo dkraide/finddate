@@ -44,9 +44,9 @@ console.log(checkDateRangeExtraction("Relatório de vendas de 1/1 até 1/3"));
 
 Sinta-se à vontade para contribuir com melhorias ou adicionar novos padrões de reconhecimento de datas às funções. Para isso, você pode seguir os passos abaixo:
 
-Faça um fork deste repositório.
-Crie uma nova branch (git checkout -b feature/nova-feature).
-Faça commit de suas alterações (git commit -am 'Adicionando nova funcionalidade').
-Faça push para a branch (git push origin feature/nova-feature).
-Crie um novo Pull Request.
-Espero que essas funções sejam úteis para suas necessidades de reconhecimento e verificação de intervalos de datas em textos!
+1. Faça um fork deste repositório.
+2. Crie uma nova branch (git checkout -b feature/nova-feature).
+3. Faça commit de suas alterações (git commit -am 'Adicionando nova funcionalidade').
+4. Faça push para a branch (git push origin feature/nova-feature).
+5. Crie um novo Pull Request.
+6. Espero que essas funções sejam úteis para suas necessidades de reconhecimento e verificação de intervalos de datas em textos!
